@@ -1,4 +1,4 @@
-Due: Nov. 9
+Due: Nov. 9 2018
 
 For this lab you will write an application that uses inheritance and interfaces concepts.
 
